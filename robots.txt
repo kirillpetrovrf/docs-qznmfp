@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-81uux0.menara4dtwd.cfd/sitemap.xml
